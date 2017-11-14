@@ -105,9 +105,9 @@ var webpackConfig = merge(baseWebpackConfig, {
     {
     postProcessHtml: function (context) {
       var titles = {
-        '/': 'Home | Vidyasagar MSC',
-        '/engagements': 'Engagements | Vidyasagar MSC',
-        '/writes': 'Writings | Vidyasagar MSC'
+        '/': 'Home |  BlueCoders',
+        '/meetups': 'Meetups | BlueCoders',
+        '/team': 'Team | BlueCoders'
       }
       return context.html.replace(
         /<title>[^<]*<\/title>/i,

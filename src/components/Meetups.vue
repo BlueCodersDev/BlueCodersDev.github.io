@@ -53,7 +53,7 @@
 
 <script>
   export default {
-    name: 'about',
+    name: 'meetups',
     data () {
       return {
         items: [

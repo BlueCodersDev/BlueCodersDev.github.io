@@ -44,7 +44,7 @@
 </template>
 <script>
 export default {
-  name: 'blog',
+  name: 'team',
   data: () => {
     return {
       title: 'Your Logo',
