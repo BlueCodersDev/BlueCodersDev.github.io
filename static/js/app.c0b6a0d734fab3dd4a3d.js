@@ -544,10 +544,10 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 
 /* harmony default export */ __webpack_exports__["default"] = ({
-  name: 'meetups',
+  name: 'about',
   data() {
     return {
-      items: [{ title: '11.11.2017', event: 'Above Serverless and Beyond Containers', link: 'https://www.meetup.com/BlueCoders/events/244683579', type: 'talk', icon: 'mic', imgUrl: '/static/images/cards/docks.jpg' }, { title: '22.07.2017', event: 'Hands-on lab: Cognitive service chaining with Serverless Computing', link: 'https://www.meetup.com/BlueCoders/events/241194184', type: 'talk', icon: 'mic', imgUrl: '/static/images/cards/drop.jpg' }, { title: 'Since 04.08.2016', event: 'Past Meetups', link: 'https://www.meetup.com/BlueCoders', type: 'talk', icon: 'mic' }]
+      items: [{ title: '11.11.2017 / 70 Attendees', event: 'Above Serverless and Beyond Containers', link: 'https://www.meetup.com/BlueCoders/events/244683579', type: 'talk', icon: 'mic', imgUrl: '/static/images/cards/docks.jpg' }, { title: '16.09.2017 / 126 Attendees', event: 'Welcome to our world of Machine Learning and Cognitive AI', link: 'https://www.meetup.com/BlueCoders/events/243012293', type: 'talk', icon: 'mic', imgUrl: '/static/images/cards/bluecoders_ml.jpeg' }, { title: '22.07.2017', event: 'Hands-on lab: Cognitive service chaining with Serverless Computing', link: 'https://www.meetup.com/BlueCoders/events/241194184', type: 'talk', icon: 'mic', imgUrl: '/static/images/cards/drop.jpg' }, { title: 'Since 04.08.2016', event: 'Past Meetups', link: 'https://www.meetup.com/BlueCoders', type: 'talk', icon: 'mic' }]
     };
   }
 });
@@ -605,7 +605,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 
 /* harmony default export */ __webpack_exports__["default"] = ({
-  name: 'team',
+  name: 'blog',
   data: () => {
     return {
       title: 'Your Logo',
@@ -1432,7 +1432,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
       staticClass: "red--text",
       attrs: {
         "icon": "",
-        "href": 'http://reddit.com/submit?url=https://bluecodersdev.github.io/meetups' + '&title=' + item.event + ' ' + item.title
+        "href": 'http://reddit.com/submit?url=https://vidyasagarmsc.github.io/engagements/' + '&title=' + item.event + ' ' + item.title
       }
     }, [_c('icon', {
       attrs: {
@@ -1442,7 +1442,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
       staticClass: "light-blue--text",
       attrs: {
         "icon": "",
-        "href": 'https://twitter.com/share?url=https://bluecodersdev.github.io/meetups' + '&via=VidyasagarMSC&text=' + item.event + ' ' + item.title
+        "href": 'https://twitter.com/share?url=https://vidyasagarmsc.github.io/engagements/' + '&via=VidyasagarMSC&text=' + item.event + ' ' + item.title
       }
     }, [_c('icon', {
       attrs: {
@@ -1452,7 +1452,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
       staticClass: "blue--text text--darken-3",
       attrs: {
         "icon": "",
-        "href": 'http://www.facebook.com/sharer.php?' + 'u=https://bluecodersdev.github.io/meetups' + '&t=' + item.event + ' ' + item.title
+        "href": 'http://www.facebook.com/sharer.php?' + 'u=https://vidyasagarmsc.github.io/engagements/' + '&t=' + item.event + ' ' + item.title
       }
     }, [_c('icon', {
       attrs: {
@@ -1551,4 +1551,4 @@ __WEBPACK_IMPORTED_MODULE_0_vue__["a" /* default */].use(__WEBPACK_IMPORTED_MODU
 /***/ })
 
 },[15]);
-//# sourceMappingURL=app.5e5271cf22249ff522d5.js.map
+//# sourceMappingURL=app.c0b6a0d734fab3dd4a3d.js.map
